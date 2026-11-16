@@ -2,9 +2,8 @@
 
 ## An Interactive Physics Adventure & Scientific Learning Platform
 
-\<p align="center">   \<strong>Explore the universe. Understand the laws of physics. Build the future.\</strong> \</p>
+Explore the universe. Understand the laws of physics. Build the future.
 
-\<p align="center">   ![React]\([https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react\&logoColor=black))   ![Vite]\([https://img.shields.io/badge/Vite-Build%20Tool-646CFF?logo=vite&logoColor=white](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?logo=vite\&logoColor=white))   ![JavaScript]\([https://img.shields.io/badge/JavaScript-ES%20Modules-F7DF1E?logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-ES%20Modules-F7DF1E?logo=javascript\&logoColor=black))   ![Lessons]\([https://img.shields.io/badge/Lessons-400-blue](https://img.shields.io/badge/Lessons-400-blue))   ![Project]\([https://img.shields.io/badge/Project-Physics%20Education-purple](https://img.shields.io/badge/Project-Physics%20Education-purple))   ![Status]\([https://img.shields.io/badge/Status-Complete-success](https://img.shields.io/badge/Status-Complete-success)) \</p>
 
 ---
 
